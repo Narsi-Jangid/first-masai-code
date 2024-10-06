@@ -3,7 +3,7 @@ Overview
 This is a personal portfolio website created to showcase my skills, projects, and contact information. As a Full Stack Developer in training at Masai School, this portfolio is designed to highlight my technical expertise and past work in web development.
 
 The portfolio is built using HTML, CSS, and JavaScript and features a simple, clean, and responsive design. It's a static website that anyone can view to get a better idea of my capabilities as a developer.
-
+![alt text](image.png)
 Features
 Responsive Design: The portfolio is designed to look good on all screen sizes (mobile, tablet, desktop).
 Skills Section: A list of my technical skills and technologies I'm proficient in.
